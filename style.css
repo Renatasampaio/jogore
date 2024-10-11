@@ -1,0 +1,30 @@
+body {
+    background-color: blueviolet;
+    color:beige;
+    font-family: "Playfair Display", serif;
+    display: flex;
+    justify-content: center;
+    align-items: 700px;
+    margin: 0;
+}
+
+button {
+    background-color: aquamarine;
+    color: aliceblue;
+    font-family: "Playfair Display", serif;
+}
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display: block;
+}
+main {
+    text-align: center;
+    max-width: 90%;
+}
+
+img {
+    max-width: 90%
+}
